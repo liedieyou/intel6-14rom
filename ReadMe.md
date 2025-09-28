@@ -10,7 +10,7 @@ ii pve-qemu-kvm             10.0.2-1              am
 
 You can use the 10.0 version deb package from my project: https://github.com/lixiaoliu666/pve-anti-detection  enables Q35 BIOS display and integrated graphics passthrough in Proxmox VE (PVE). Ultra 1/2 generation desktops and laptops GPU Passthrough you can use https://github.com/lixiaoliu666/intel-ultra-rom
 
-交流qq群 25438194（666)
+交流qq群 363074875（666)
 
 本项目edk2已经做成了子模块。
 
@@ -236,4 +236,5 @@ https://foxi.buduanwang.vip/virtualization/pve/1602.html/
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lixiaoliu666/intel6-14rom&type=Date)](https://www.star-history.com/#lixiaoliu666/intel6-14rom&Date)
+
 
